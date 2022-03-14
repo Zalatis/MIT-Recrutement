@@ -15,3 +15,4 @@
     - Le nombre de commandes payées du contact
 - Sur cette page, il faut permettre à l'utilisateur de trier les colonnes de façon ascendante et descendante
 - Sur cette page, permettre à l'utilisateur d'ajouter un nouveau client
+2022
